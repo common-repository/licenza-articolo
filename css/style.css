@@ -1,0 +1,15 @@
+/*forma e colori del nostro box*/
+.ylb-container{
+	margin: 50px; 
+	border: none; 
+	padding: 10px;
+    color:#000;	
+	background-color: #E6E6E6;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:8px;
+}
+
+.ylb-close{
+    color:#006;	
+}
